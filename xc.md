@@ -20,7 +20,7 @@ int a,b,c;
 a=10;
 b=2*a;
 c=a+b;
-printf("c的值是：");
+printf("c EQUALS：");
 printf("%d",c);}
 ~~~
 
