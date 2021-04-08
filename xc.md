@@ -55,6 +55,6 @@ return 0;}
 *we are italics*
 ## 10.strikethrough text ~~like this~~
 ~~those words are deleted ,over ,ok.~~
-## 10.a horizontal rule like the one that follows this list.
+## 11.a horizontal rule like the one that follows this list.
 ---
 ---
