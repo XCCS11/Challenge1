@@ -2,7 +2,7 @@
 #### an h4 header
 [back to README.md](./README.md)
 ## a link to a next ernal web site
-[link to baidu](https://www.baidu.com/s?ie=UTF-8&wd=baidu)
+[link to bilibili](https://www.bilibili.com/v/cinephile/?spm_id_from=333.851.b_7072696d6172794368616e6e656c4d656e75.69)
 
 ## 1.next markdown file XC1.md url
 [next markdown file](./xc1.md)
