@@ -23,29 +23,31 @@ int a,b,c;
 a=10;
 b=2*a;
 c=a+b;
+printf("ok good");
 printf("c EQUALS：");
-printf("%d",c);}
+printf("%d",c);
+return 0;}
 ~~~
 
 ## 4. a block quote.
->God helps those who help themselves.
+>Where there is a wil there is a way.
 
 ## 5.a bulleted list.
-- first
-- second
-- third
+- firstPrize
+- secondPrize
+- thirdPrize
 
 ## 6. a numbered list.
-1. row1
-2. row2
-3. row3
+1. good
+2. not bad
+3. bad
 
 ## 7.a table 
-|subjects|grades|
-|--------|------|
-|Chinese |89    |
-|math    | 100  |
-|English | 95   |
+|name    |major     |
+|--------|--------- |
+|Lucy    |Math      |
+|Bobby   |Computer  |
+|Devied  |Art       |
 
 ## 8.bolded text.
 **those words are boldface**
