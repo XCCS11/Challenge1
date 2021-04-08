@@ -31,8 +31,14 @@ printf("%d",c);}
 >God helps those who help themselves.
 
 ## 5.a bulleted list.
+- first
+- second
+- third
 
 ## 6. a numbered list.
+1. row1
+2. row2
+3. row3
 
 ## 7.a table 
 
