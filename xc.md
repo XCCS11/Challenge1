@@ -41,6 +41,10 @@ printf("%d",c);}
 3. row3
 
 ## 7.a table 
+|subjects|grades|
+|Chinese |89    |
+|math    | 100  |
+|English | 95   |
 
 ## 8.bolded text.
 **those words are boldface**
