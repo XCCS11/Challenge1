@@ -1,5 +1,8 @@
-## xc.md
-#### this is a md file.
+## an h2 header
+#### an h4 header
+
+## a link to a next ernal web site
+[link to baidu](https://www.baidu.com/s?ie=UTF-8&wd=baidu)
 
 ## 1.next markdown file XC1.md url
 [next markdown file](./xc1.md)
