@@ -27,16 +27,18 @@ printf("c EQUALS：");
 printf("%d",c);}
 ~~~
 
-## 4.一个块报价
+## 4. a block quote.
 
-## 5.项目列表
+## 5.a bulleted list.
 
-## 6.a table 
+## 6. a numbered list.
 
-## 7.boldface words
+## 7.a table 
+
+## 8.bolded text.
 **those words are boldface**
-## 8.italic
+## 9.italicized text.
 *we are italics*
-## 9.delete 
+## 10.strikethrough text~~like this~~
 ~~those words are deleted ,over ,ok.~~
-## 10.一个水平的规则
+## 10.a horizontal rule like the one that follows this list.
