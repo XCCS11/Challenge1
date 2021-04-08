@@ -42,6 +42,7 @@ printf("%d",c);}
 
 ## 7.a table 
 |subjects|grades|
+|--------|------|
 |Chinese |89    |
 |math    | 100  |
 |English | 95   |
