@@ -51,7 +51,7 @@ printf("%d",c);}
 **those words are boldface**
 ## 9.italicized text.
 *we are italics*
-## 10.strikethrough text~~like this~~
+## 10.strikethrough text ~~like this~~
 ~~those words are deleted ,over ,ok.~~
 ## 10.a horizontal rule like the one that follows this list.
 ---
