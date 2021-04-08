@@ -54,3 +54,5 @@ printf("%d",c);}
 ## 10.strikethrough text~~like this~~
 ~~those words are deleted ,over ,ok.~~
 ## 10.a horizontal rule like the one that follows this list.
+---
+---
